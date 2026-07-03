@@ -27,6 +27,6 @@ void montarRelatorioIndisponiveis(char *buffer, int tamanho);
 
 int salvarArquivo(void);
 void carregarArquivo(void);
-void iniciarGUI(void);
+void menu(void);
 
 #endif
